@@ -1,0 +1,1 @@
+This project is a mockup of thenextweb.com 's home page. It was completed through The Odin Project using HTML and CSS (no Javascript) and was designed to showcase responsiveness. The bulk of the CSS is designed for mobile browsers and the media queries for larger screen sizes.
